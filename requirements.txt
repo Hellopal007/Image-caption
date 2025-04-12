@@ -1,0 +1,6 @@
+Flask
+python-dotenv
+pymongo
+authlib
+requests
+openai
